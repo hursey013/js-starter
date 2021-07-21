@@ -1,0 +1,21 @@
+{
+  "name": "@hursey013/starter-js",
+  "version": "0.1.0",
+  "description": "",
+  "author": "Brian Hurst <hursey013@pm.me>",
+  "license": "MIT",
+  "dependencies": {
+    "sharec": "^2.10.2"
+  },
+  "scripts": {
+    "postinstall": "sharec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hursey013/js-starter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hursey013/js-starter/issues"
+  },
+  "homepage": "https://github.com/hursey013/js-starter#readme"
+}
